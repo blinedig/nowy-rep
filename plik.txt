@@ -1,0 +1,5 @@
+ADD AL 3
+ADD DH 1
+SUB AL DH
+MOV AL AH
+
